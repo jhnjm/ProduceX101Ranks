@@ -12,8 +12,6 @@
 
 <p><center>Choose which episode to watch, the lates episode is episode 4, and in the next episode <i>eliminations</i> are next!!! Who are you rooting to survive?</center><p>
 
-<center><img src="https://imgur.com/FUmImug"></center>
-
 </body>
 
 </html>
